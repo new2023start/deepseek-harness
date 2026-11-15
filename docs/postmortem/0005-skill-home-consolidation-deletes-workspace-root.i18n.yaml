@@ -1,0 +1,28 @@
+# Bilingual-pair consistency record for 0005-skill-home-consolidation-deletes-workspace-root.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write docs/postmortem/0005-skill-home-consolidation-deletes-workspace-root.md
+/post-mortem-0005-a-stray-directory-cleanup-deleted-an-entire-workspace-root:
+  en: 3868bebfb89c68d7
+  zh: 2162cc9df29cec14
+/post-mortem-0005-a-stray-directory-cleanup-deleted-an-entire-workspace-root/executive-summary:
+  en: e9f0520c1f89224e
+  zh: cf48682c208e57ab
+/post-mortem-0005-a-stray-directory-cleanup-deleted-an-entire-workspace-root/summary:
+  en: 3361db2a60b02150
+  zh: 191d1d275bcfabf7
+/post-mortem-0005-a-stray-directory-cleanup-deleted-an-entire-workspace-root/impact:
+  en: 2307b5c9e29b0d7d
+  zh: ee12e6a76742fc47
+/post-mortem-0005-a-stray-directory-cleanup-deleted-an-entire-workspace-root/timeline:
+  en: 01877941ba5ba209
+  zh: db0182acfc6458ee
+/post-mortem-0005-a-stray-directory-cleanup-deleted-an-entire-workspace-root/root-cause:
+  en: e0065dad96b1c910
+  zh: 5fb895b42e8c84d8
+/post-mortem-0005-a-stray-directory-cleanup-deleted-an-entire-workspace-root/guardrails-added:
+  en: c8490611902d5859
+  zh: bcd4c937bb38d550
+/post-mortem-0005-a-stray-directory-cleanup-deleted-an-entire-workspace-root/lessons:
+  en: 199fc2004cc614d0
+  zh: 9beb5b773ed257ad
